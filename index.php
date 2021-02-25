@@ -1,11 +1,11 @@
 <html>
 <H1> <title>COVID 19</title> </H1>
         	<Body><body style = body background = "h.jpg">
-<H4> <p align = "center"> <font size = "70" face = "Copperplate gothic bold" color = "black"><b><u>Covid-19</u></b></font> </H4>
+<H4> <p align = "center"> <font size = "70" face = "Copperplate gothic bold" color = "white"><b><u>Covid-19</u></b></font> </H4>
 <br><p align = "center"><img src = "lol.jpg" Width = "820"  Length = "440">
 <br><p align = "left"><Font size = "6"><Font color = "black"><body style = background-color:#FCF8EC>
 What is Covid 19?
-<p align = "left"><Font size = "4"><Font color = "black"> <Font face = "Castellar">
+<p align = "left"><Font size = "4"><Font color = "white"> <Font face = "Castellar">
 Coronavirus disease (COVID-19),<br>
 <br>is an infectious disease caused by a newly discovered coronavirus.
 <br>Most people who fall sick with COVID-19 will experience mild to moderate symptoms and  
